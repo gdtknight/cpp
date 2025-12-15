@@ -7,3 +7,6 @@
 [submodule "cpp02"]
 	path = cpp02
 	url = git@github.com:gdtknight/cpp02.git
+[submodule "cpp03"]
+	path = cpp03
+	url = git@github.com:gdtknight/cpp03.git
