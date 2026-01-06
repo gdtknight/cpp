@@ -10,3 +10,6 @@
 [submodule "cpp03"]
 	path = cpp03
 	url = git@github.com:gdtknight/cpp03.git
+[submodule "cpp04"]
+	path = cpp04
+	url = git@github.com:gdtknight/cpp04.git
